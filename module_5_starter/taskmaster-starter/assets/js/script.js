@@ -95,3 +95,6 @@ $("#remove-tasks").on("click", function() {
 loadTasks();
 
 
+localStorage.clear()
+
+//beginning 5.1.5
